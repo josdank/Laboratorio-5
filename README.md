@@ -1,7 +1,7 @@
 # Laboratorio 5  - Desarrollo Web - Josué Guerra
 
 ## API usada
-### https://api.breakingbadquotes.xyz
+### [https://api.breakingbadquotes.xyz](https://rickandmortyapi.com/api/character/)
 
 # Output del codigo 
 
