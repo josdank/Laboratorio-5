@@ -6,8 +6,6 @@
 3. [Output del Código](#output-del-código)
    - [Imagen N° 1](#imagen-n°-1)
    - [Imagen N° 2](#imagen-n°-2)
-   - [Imagen N° 3](#imagen-n°-3)
-   - [Imagen N° 4](#imagen-n°-4)
 4. [Enlaces Útiles](#enlaces-útiles)
 
 ## Introducción
