@@ -8,8 +8,9 @@
 ![image](https://github.com/user-attachments/assets/03e8393f-b6ab-447f-81cd-89a23056b58a)
 
 
-## [Link de la API de Breaking Bad](https://breakingbadquotes.xyz/)
-![image](https://github.com/user-attachments/assets/272cc70c-8f6e-4b9a-a9db-33ff87c597ad)
+## [Link de la API de Rick and Morty](https://breakingbadquotes.xyz/)
+![image](https://github.com/user-attachments/assets/d908d655-7e1b-41b7-b6aa-c335c2bc00ba)
+
 
 
 ## [Link del compilatorio de API's](https://public-api-lists.github.io/public-api-lists/)
