@@ -4,8 +4,10 @@
 ### https://rickandmortyapi.com/api/character/
 
 # Output del codigo 
-
-![image](https://github.com/user-attachments/assets/03e8393f-b6ab-447f-81cd-89a23056b58a)
+  # Imagen N° 1
+  ![image](https://github.com/user-attachments/assets/93681d38-59f1-4704-8cd4-2bde7c87a83b)
+  # Imagen N° 2
+  ![image](https://github.com/user-attachments/assets/6a3b77e8-8fcd-4b99-bc9f-5e523391c661)
 
 
 ## [Link de la API de Rick and Morty](https://breakingbadquotes.xyz/)
